@@ -1,5 +1,6 @@
 # ViaForge
 ## Clientside Implementation of ViaVersion for Forge
+Based on https://github.com/ViaVersion/ViaFabric/
 
 For more details please check the CurseForge page: 
 https://www.curseforge.com/minecraft/mc-mods/viaforge
